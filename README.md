@@ -3,9 +3,12 @@
 ## 🚀 Stack of Technologies
 
 <h2>My project</h2>
-[1. react movies](https://alexandersipko.github.io/movie/)</br>
-[2. clear_js](https://alexandersipko.github.io/avsipko.github.io/)</br>
-[3. emoji](https://meme-emoji.netlify.app)</br>
+
+<link></link>
+
+[1. react movies](https://alexandersipko.github.io/movie/) </br>
+[2. clear_js](https://alexandersipko.github.io/avsipko.github.io/) </br>
+[3. emoji](https://meme-emoji.netlify.app) </br>
 [4. snikers](https://superlative-kelpie-b634cd.netlify.app)
 
 <p align="center">
