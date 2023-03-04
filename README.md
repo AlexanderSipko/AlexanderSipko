@@ -1,16 +1,13 @@
 # Александр Сипко
 
-## 🚀 Stack of Technologies
-
-<h2>My project</h2>
-
-<link></link>
+# My project
 
 [1. react movies](https://alexandersipko.github.io/movie/) </br>
 [2. clear_js](https://alexandersipko.github.io/avsipko.github.io/) </br>
 [3. emoji](https://meme-emoji.netlify.app) </br>
 [4. snikers](https://superlative-kelpie-b634cd.netlify.app)
 
+## 🚀 Stack of Technologies
 <p align="center">
   <a href="https://skillicons.dev/">
     <img src="https://skillicons.dev/icons?i=bash,lua,neovim,git,gitlab,github,githubactions,py,django,redis,postgres,nginx,docker,kubernetes,html,css,javascript,typescript,react,aws,gcp&perline=7&theme=dark" />
