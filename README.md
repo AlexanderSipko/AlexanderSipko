@@ -1,4 +1,4 @@
-# ALEKSANDR 🇷🇺 
+# Александр Сипко
 
 ## 🚀 Stack of Technologies
 
