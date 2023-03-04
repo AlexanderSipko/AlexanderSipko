@@ -5,6 +5,9 @@
 
 [react movies](https://alexandersipko.github.io/movie/)</br>
 [clear_js](https://alexandersipko.github.io/avsipko.github.io/)
+[emoji](https://meme-emoji.netlify.app)
+[snikers](https://superlative-kelpie-b634cd.netlify.app)
+
 
 <p align="center">
   <a href="https://skillicons.dev/">
