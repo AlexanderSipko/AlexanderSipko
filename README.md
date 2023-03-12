@@ -5,7 +5,7 @@
 [1. Movies - React](https://alexandersipko.github.io/movie/) </br>
 [2. Other function - clear_js](https://alexandersipko.github.io/avsipko.github.io/) </br>
 [3. Emoji - React](https://meme-emoji.netlify.app) </br>
-[4. Snikers - React (TODO)](https://superlative-kelpie-b634cd.netlify.app)
+[4. Snikers - React (TODO)](https://superlative-kelpie-b634cd.netlify.app) </br>
 [5. Other function - React](https://alexandersipko.github.io/react-function/)
 
 ## 🚀 Stack of Technologies
