@@ -2,10 +2,11 @@
 
 # My project
 
-[1. react movies](https://alexandersipko.github.io/movie/) </br>
-[2. clear_js](https://alexandersipko.github.io/avsipko.github.io/) </br>
-[3. emoji](https://meme-emoji.netlify.app) </br>
-[4. snikers](https://superlative-kelpie-b634cd.netlify.app)
+[1. movies - React](https://alexandersipko.github.io/movie/) </br>
+[2. other function - clear_js](https://alexandersipko.github.io/avsipko.github.io/) </br>
+[3. emoji - React](https://meme-emoji.netlify.app) </br>
+[4. snikers - React (TODO)](https://superlative-kelpie-b634cd.netlify.app)
+[5. other function - React](https://alexandersipko.github.io/react-function/)
 
 ## 🚀 Stack of Technologies
 <p align="center">
