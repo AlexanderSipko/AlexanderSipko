@@ -8,6 +8,7 @@
 + [4. Snikers - React (TODO)](https://superlative-kelpie-b634cd.netlify.app) // (страница интернет магазина кроссовок и реализация корзины заказов) </br>
 + [5. Other function - React](https://alexandersipko.github.io/react-function/) // (разные функции на React в том числе с использованием бэкенда на Python Flask (реализация API))
 + [6. Shop](https://alexandersipko.github.io/shop-app/) // (Интернет магазин с корзиной)
++ [7. Food](https://alexandersipko.github.io/react-routing-shop) // (Список рецептов)
 
 
 ## 🚀 Stack of Technologies
