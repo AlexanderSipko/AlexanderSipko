@@ -9,7 +9,7 @@
 + [5. Other function - React](https://alexandersipko.github.io/react-function/) // (разные функции на React в том числе с использованием бэкенда на Python Flask (реализация API))
 + [6. Shop](https://alexandersipko.github.io/shop-app/) // (Интернет магазин с корзиной)
 + [7. Food](https://alexandersipko.github.io/react-routing-shop) // (Список рецептов)
-+ [8. neural network (CIFAR-10) > 80 %](https://github.com/AlexanderSipko/cifar_10_torch_81_percent)
++ [8. neural network (CIFAR-10) > 80 %](https://github.com/AlexanderSipko/cifar_10_torch_81_percent) // Этот проект представляет собой пример простого классификатора изображений
 
 ## 🚀 Stack of Technologies
 <p align="center">
